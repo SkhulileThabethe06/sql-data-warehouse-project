@@ -24,10 +24,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salih**, also known as **Data With Baraa**. I'm an IT professional and passionate YouTuber on a mission to share knowledge in an enjoyable and engaging!
+Hi there! I'm **Skhulile Thabethe**. I'm an IT professional and passionate Data Analyst who enjoy working with big data
