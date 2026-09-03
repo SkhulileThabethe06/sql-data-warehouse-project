@@ -39,4 +39,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 🌟 About Me
 
-Hi there! I'm **Skhulile Thabethe**. I'm an IT professional and passionate Data Analyst who enjoy working with big data
+Hi there! I'm **Skhulile Thabethe**. I am a skilled Full Stack Developer with strong expertise in both software development and data analytics. With a solid background in C# programming and experience in data cleaning, reporting, and visualization using SSRS, I am well-equipped to provide data-driven insights and develop efficient solutions. My work spans web development using ASP.NET, front-end technologies like HTML5, CSS3, and jQuery, as well as database management with MS SQL Server. I collaborate closely with cross-functional teams to understand business needs, analyse data, and implement scalable, innovative features that improve system functionality and decision-making processes. I am eager to contribute to a team where technical development and data analysis intersect.
